@@ -4,7 +4,7 @@
 #
 Name     : rubygem-cookiejar
 Version  : 0.3.3
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/cookiejar-0.3.3.gem
 Source0  : https://rubygems.org/downloads/cookiejar-0.3.3.gem
 Summary  : No detailed summary available
